@@ -33,6 +33,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Model-Based Neuroscience and Cognition Summer School](https://modelbasedneurosci.com/)|Amsterdam, Nederlands| University of Amsterdam |Jul 29 – Aug 2|May 15|€550 |No|
 [Vision and Sports Summer School](https://cmp.felk.cvut.cz/summerschool2024)|Prague, Czechia|Synthesia, Czech Technical University|Jul 22 - 27|Apr 30|€470-650||
 [Summer School on Affordable AI](https://saai2024.github.io/)|Bonn, Germany|Albarqouni Lab|July 22-26|May 29|0||
+[CLIMADEMIC Summer School](https://www.rki.de/SharedDocs/Termine/EN/ZKI-PH/CLIMADEMIC_Summer_School_07-2024.html)|Berlin, Germany|Robert Koch Institute|July 22-26|June 15|€150-450|N/A|
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/)|Novi Sad, Serbia|EEML Team & Google Deepmind & The Institute for Artificial Intelligence Research and Development of Serbia |Jul 15 - 20|March 29|€ 100-400|Travel grants available on request | Application open: Early January 2024 |
 [DeepLearn 2024 11th International School on Deep Learning (and the Future of Artificial Intelligence)](https://deeplearn.irdta.eu/2024/)|Porto - Maia, Portugal|Institute for Research Development, Training and Advice – IRDTA, Brussels/London |Jul 15 - 19|July 12|€430-€580| | Application open: Early January 2024 |
 [African Computer Vision Summer School (ACVSS)](https://www.acvss.ai/)|Nairobi, Kenya|DAIR, Inria, CSIRO, UBC, Dedan Kimathi University, Ontario Tech, ISTA, Naver Labs, Microsoft|Jul 14-24|Mar 15|$0-1500|Yes|
